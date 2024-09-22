@@ -908,6 +908,14 @@
     "radiant": [
         {
             "type": "public",
+            "url": "wss://electrumx-dex01.radiantexplorer.com:50022/"
+        },
+        {
+            "type": "public",
+            "url": "wss://electrumx-dex02.radiantexplorer.com:50022/"
+        },
+        {
+            "type": "public",
             "url": "wss://electrumx-01-ssl.radiant4people.com:51002/"
         },
         {
@@ -971,12 +979,62 @@
     ],
     "bittensor": [
         {
+            "type": "public",
+            "url": "https://entrypoint-finney.opentensor.ai/"
+        },
+        {
             "type": "private",
             "name": "dwellirBittensor"
         },
         {
             "type": "private",
             "name": "onfinalityBittensor"
+        }
+    ],
+    "internet-computer": [
+        {
+            "type": "public",
+            "url": "https://icp-api.io/"
+        }
+    ],
+    "blast": [
+        {
+            "type": "public",
+            "url": "https://rpc.blast.io/"
+        },
+        {
+            "type": "public",
+            "url": "https://blast-rpc.publicnode.com/"
+        },
+        {
+            "type": "public",
+            "url": "https://rpc.ankr.com/blast/"
+        },
+        {
+            "type": "private",
+            "name": "nownodes"
+        },
+        {
+            "type": "private",
+            "name": "getblock"
+        }
+    ],
+    "filecoin": [
+        {
+            "type": "public",
+            "url": "https://rpc.ankr.com/filecoin/"
+        },
+        {
+            "type": "public",
+            "url": "https://filecoin.chainup.net/rpc/v1/"
+        },
+        {
+            "type": "private",
+            "name": "nownodes"
+        },
+        {
+            "type": "private",
+            "name": "getblock"
         }
     ]
 }

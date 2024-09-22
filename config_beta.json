@@ -98,6 +98,12 @@
 		},
 		"base": {
 			"jsonRpc": "30fda1e4107f44c2ba29c359270d43bd"
+		},
+		"blast": {
+			"jsonRpc": "2c823423a8e347aba47fe9a6fcc19994"
+		},
+		"filecoin": {
+			"jsonRpc": "6308d15e88544c40a0559ff2dcd19a50"
 		}
 	},
 	"kaspaSecondaryApiUrl": "https://api.kaspacalc.net/",
