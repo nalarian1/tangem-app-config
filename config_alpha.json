@@ -13,8 +13,8 @@
 		"11130c7fcdc640ad8442474303df4a4b",
 		"dd70a93940ea4ccc9b113e1636500303"
 	],
-	"bscQuiknodeApiKey": "",
-	"bscQuiknodeSubdomain": "",
+    "bscQuiknodeApiKey": "19058d181be091a5d6e19c2c0a4bc16f560736b8",
+    "bscQuiknodeSubdomain": "blissful-black-card.bsc.discover.quiknode.pro",
 	"coinMarketCapKey": "bc80fcb0-af24-4db1-82a1-512519b82699",
 	"cryptoAPIsApiKey": "ddeb7920603cd638627d9cf6db3b6c10ee1d5623",
 	"getBlockApiKey": "",
@@ -116,8 +116,8 @@
 		"mainnet": "e71c478cd9400840f0cfe0e9cf9d1a5185ace2a5b148e840d27cb03bacfb1800",
 		"testnet": "ae8942b13ffa347b2e68572ef4bb33a6576952c88fafbdd9d640e097844bb5c1"
 	},
-	"quiknodeApiKey": "",
-	"quiknodeSubdomain": "still-dawn-thunder",
+    "quiknodeApiKey": "ca339bce7399b220aadfd1cd8901159e62e0aacb",
+    "quiknodeSubdomain": "green-fittest-lake.solana-mainnet.quiknode.pro",
 	"tronGridApiKey": "e00cb1db-07ec-4a1c-b2f6-57f57894b6e4",
     "tangemComAuthorization": "dGFuZ2VtOnRhbmdlbWRldjc=",
     "sprinklr": {

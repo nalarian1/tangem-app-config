@@ -15,10 +15,10 @@
     "amplitudeApiKey": "711b7361416138af9d1dadb0590389cc",
     "cryptoAPIsApiKey": "ddeb7920603cd638627d9cf6db3b6c10ee1d5623",
     "tronGridApiKey": "f53d33e0-e36b-463f-87ca-e75a3067d79e",
-    "quiknodeSubdomain": "hidden-greatest-sky",
-    "quiknodeApiKey": "99328903f6cfe375b91b2b1ee8e8a5ab582dde22",
-    "bscQuiknodeSubdomain": "",
+    "quiknodeApiKey": "",
+    "quiknodeSubdomain": "still-dawn-thunder.solana-mainnet.discover.quiknode.pro",
     "bscQuiknodeApiKey": "",
+    "bscQuiknodeSubdomain": "blissful-black-card.bsc.discover.quiknode.pro",
     "nowNodesApiKey": "5e52b37c-a013-453c-b6c4-da8bd7a9d87c",
     "getBlockApiKey": "",
     "getBlockAccessTokens": {

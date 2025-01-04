@@ -229,6 +229,16 @@
             "name": "getblock"
         }
     ],
+    "canxium": [
+        {
+            "type": "public",
+            "url": "https://rpc.canxium.org/"
+        },
+        {
+            "type": "public",
+            "url": "https://canxium.rpc.thirdweb.com/"
+        }
+    ],
     "cardano": [
         {
             "type": "private",
@@ -243,6 +253,16 @@
             "name": "tangemRosetta"
         }
     ],
+    "casper-network": [
+        {
+            "type": "public",
+            "url": "https://mainnet.phantom-rpc.com/rpc/"
+        },
+        {
+            "type": "private",
+            "name": "nownodes"
+        }
+    ],
     "chia": [
         {
             "type": "private",
@@ -250,7 +270,39 @@
         },
         {
             "type": "private",
+            "name": "tangemChia3"
+        },
+        {
+            "type": "private",
             "name": "fireAcademy"
+        }
+    ],
+    "chiliz": [
+        {
+            "type": "public",
+            "url": "https://rpc.chiliz.com/"
+        },
+        {
+            "type": "public",
+            "url": "https://rpc.ankr.com/chiliz/"
+        },
+        {
+            "type": "public",
+            "url": "https://chiliz.publicnode.com/"
+        }
+    ],
+    "core": [
+        {
+            "type": "public",
+            "url": "https://rpc.ankr.com/core/"
+        },
+        {
+            "type": "public",
+            "url": "https://rpc.coredao.org/"
+        },
+        {
+            "type": "public",
+            "url": "https://core.public.infstones.com/"
         }
     ],
     "cosmos": [
@@ -355,6 +407,34 @@
         {
             "type": "private",
             "name": "blockcypher"
+        }
+    ],
+    "energy-web-chain": [
+        {
+            "type": "public",
+            "url": "https://rpc.energyweb.org/"
+        },
+        {
+            "type": "public",
+            "url": "https://consortia-rpc.energyweb.org/"
+        },
+        {
+            "type": "public",
+            "url": "https://energy-web-chain.rpc.thirdweb.com/"
+        },
+        {
+            "type": "public",
+            "url": "https://explorer.energyweb.org/api/"
+        }
+    ],
+    "energy-web-x": [
+        {
+            "type": "public",
+            "url": "https://public-rpc.mainnet.energywebx.com/"
+        },
+        {
+            "type": "public",
+            "url": "https://wnp-rpc.mainnet.energywebx.com/"
         }
     ],
     "ethereum": [
@@ -853,6 +933,10 @@
         {
             "type": "private",
             "name": "solana"
+        },
+        {
+            "type": "private",
+            "name": "getblock"
         }
     ],
     "stellar": [
@@ -1025,6 +1109,16 @@
             "url": "https://rpc1.xinfin.network/"
         }
     ],
+    "xodex": [
+        {
+            "type": "public",
+            "url": "https://mainnet.xo-dex.com/rpc/"
+        },
+        {
+            "type": "public",
+            "url": "https://xo-dex.io/"
+        }
+    ],
     "xrp": [
         {
             "type": "public",
@@ -1067,6 +1161,26 @@
         {
             "type": "public",
             "url": "https://zksync.drpc.org/"
+        }
+    ],
+    "sui": [
+        {
+            "type": "public",
+            "url": "https://fullnode.mainnet.sui.io/"
+        },
+        {
+            "type": "public",
+            "url": "https://rpc-mainnet.suiscan.xyz/"
+        }
+    ],
+    "clore-ai": [
+        {
+            "type": "public",
+            "url": "https://blockbook.clore.ai/"
+        },
+        {
+            "type": "public",
+            "url": "https://blockbook.clore.zelcore.io/"
         }
     ]
 }
